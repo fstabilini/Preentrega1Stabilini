@@ -1,0 +1,32 @@
+.item-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.item-card-image {
+  width: 12.5rem;
+  height: 12.5rem;
+  object-fit: contain;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.item-card-category {
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.item-card-info {
+  color: #666;
+}
+
+.item-card-wrapper {
+  text-decoration: none;
+}

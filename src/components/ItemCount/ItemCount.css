@@ -1,0 +1,19 @@
+/* ItemCount.css */
+
+.item-count-container {
+  display: flex;
+  align-items: center;
+}
+
+.item-count-container button {
+  padding: 5px 10px;
+  margin: 5px;
+  border: 1px solid #ddd;
+  background-color: #f7f7f7;
+  cursor: pointer;
+}
+
+.item-count-container span {
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+}

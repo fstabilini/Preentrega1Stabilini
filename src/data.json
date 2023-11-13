@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "categoria": "Hogar",
+    "nombre": "Planta Decorativa",
+    "precio": 14.99,
+    "imagen": "https://m.media-amazon.com/images/I/51+cVNgL-mL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "categoria": "Electrónica",
+    "nombre": "Cámara Digital",
+    "precio": 149.99,
+    "imagen": "https://imagenes.elpais.com/resizer/ctk54i7vkCvE5NVCoM1aoG4Ug6g=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/3MQDXQBNBVA6RCNZMUQYYCKSTI.jpg"
+  },
+  {
+    "id": 3,
+    "categoria": "Moda",
+    "nombre": "Jeans Clásicos",
+    "precio": 39.99,
+    "imagen": "https://www.gef.co/dx/api/dam/custom/2022/gef/es-co/imagenes/hombres/pantalones/aoqo/566x715/pantalon-hombre-aoqo-indigo-medio-40203-Espalda-gef.jpg"
+  },
+  {
+    "id": 4,
+    "categoria": "Hogar",
+    "nombre": "Set de Cubiertos",
+    "precio": 79.99,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3D_KE8FVRNkQ6LcAC5hr0_i8Slwb3ezD6NMwuEcN9N-5AwGFFn5YpyDl9PLhz1W-Pjs&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "categoria": "Libros",
+    "nombre": "Novela de Misterio",
+    "precio": 24.99,
+    "imagen": "https://pictures.abebooks.com/isbn/9781545012819-us.jpg"
+  },
+  {
+    "id": 6,
+    "categoria": "Deportes",
+    "nombre": "Balón de Fútbol",
+    "precio": 29.99,
+    "imagen": "https://www.regalospublicitarios.com/80099-thickbox_default/pequeno-balon-futbol-mini-soccer.jpg"
+  },
+  {
+    "id": 7,
+    "categoria": "Electrónica",
+    "nombre": "Auriculares Inalámbricos",
+    "precio": 59.95,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfgh6J5zVcSoGn7ddW6s_YpZQtAMNktV2pPpt6SESJlAUu4OfDlUTLrCBIu7jYRMEDn0&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "categoria": "Moda",
+    "nombre": "Camisa de Seda",
+    "precio": 89.99,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtjveNPACgcCcakuBp4AgSs7OhXPbenZtLsrSqumrN04ULn4ppZCX7DY30rtTwLzH8E8&usqp=CAU"
+  },
+  {
+    "id": 9,
+    "categoria": "Hogar",
+    "nombre": "Lámpara de Escritorio",
+    "precio": 45.99,
+    "imagen": "https://m.media-amazon.com/images/I/51XffYHu-QL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 10,
+    "categoria": "Libros",
+    "nombre": "Cocina Italiana",
+    "precio": 34.99,
+    "imagen": "https://m.media-amazon.com/images/I/61BC39bvFzL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "categoria": "Deportes",
+    "nombre": "Zapatillas Running",
+    "precio": 115.0,
+    "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/03/03/16462974829783.jpg"
+  },
+  {
+    "id": 12,
+    "categoria": "Electrónica",
+    "nombre": "Tablet 10 Pulgadas",
+    "precio": 259.99,
+    "imagen": "https://m.media-amazon.com/images/I/71CZ14Ul0dL.jpg"
+  },
+  {
+    "id": 13,
+    "categoria": "Moda",
+    "nombre": "Reloj de Pulsera",
+    "precio": 199.99,
+    "imagen": "https://m.media-amazon.com/images/I/61u2zFRC8IS._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 14,
+    "categoria": "Hogar",
+    "nombre": "Manta Térmica",
+    "precio": 75.0,
+    "imagen": "https://m.media-amazon.com/images/I/71VSq7HlYlL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 15,
+    "categoria": "Libros",
+    "nombre": "Enciclopedia de Historia",
+    "precio": 120.0,
+    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/43/03/43034f756308bf61b70b8fdcb8456428.jpg"
+  },
+  {
+    "id": 16,
+    "categoria": "Deportes",
+    "nombre": "Kit de Yoga",
+    "precio": 49.99,
+    "imagen": "https://i5.walmartimages.com/seo/Yes4All-Yoga-Starter-Kit-Includes-NBR-Exercise-Yoga-Mat-2-Yoga-Blocks-Yoga-Strap-Yoga-Towel_5c25b1df-dec0-4157-a277-2f834f314b24_1.425e39e0f8cdf2b92c1a1a48c061002a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+  },
+  {
+    "id": 17,
+    "categoria": "Hogar",
+    "nombre": "Vela Aromática",
+    "precio": 12.99,
+    "imagen": "https://acdn.mitiendanube.com/stores/001/817/260/products/17-bdb7db2a6bf5413402169738093264371-67a54889027e62dfd716973809555432-640-0.png"
+  },
+  {
+    "id": 18,
+    "categoria": "Electrónica",
+    "nombre": "Consola de Videojuegos",
+    "precio": 299.99,
+    "imagen": "https://colmetecno.com/cdn/shop/files/ConsolaInalambrica4KGAMESTICK01.png?v=1695177527"
+  },
+  {
+    "id": 19,
+    "categoria": "Moda",
+    "nombre": "Bolso de Mano de Cuero",
+    "precio": 150.0,
+    "imagen": "https://m.media-amazon.com/images/I/71bZiImJPBL._AC_UY1000_.jpg"
+  },
+  {
+    "id": 20,
+    "categoria": "Hogar",
+    "nombre": "Juego de Toallas de Algodón",
+    "precio": 35.99,
+    "imagen": "https://m.media-amazon.com/images/I/81en3yalOyL._AC_UF894,1000_QL80_.jpg"
+  }
+]
